@@ -10,8 +10,6 @@
 - ☁️ Experience deploying apps on **AWS (EC2, S3, CloudFront, Lambda, RDS)**
 - 📦 Comfortable with **MongoDB, MySQL, PostgreSQL**
 - 🎯 Passionate about building **scalable, clean, and high-performance** applications
-- 🔥 Currently improving **system design & advanced frontend architecture**
-- 🌱 Actively contributing to **Open Source**
 - 🎯 Goal: Build world-class frontend engineering skills & work at top product companies
 
 ---
